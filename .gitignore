@@ -1,0 +1,15 @@
+node_modules/
+.cache/
+.tmp/
+tmp/
+out/
+coverage/
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jsonl.tmp
